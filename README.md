@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hej, jag är Oskar Sobala! 
 
-<!--
-**Oskar-Sobala/Oskar-Sobala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webbutvecklare i utbildning @ TE4 Academy
 
-Here are some ideas to get you started:
+## Just nu jobbar jag med
+- Nobel Quest - multiplayer-spel med Firebase & real-time leaderboards
+- Att lära mig modern JavaScript (ES6+) och asynkron programmering
+- Teamprojekt med Git workflow och code reviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+## Lär mig just nu
+- Asynkron JavaScript (Promises, async/await)
+- Firebase Authentication & Firestore
+- Agil utveckling i team
+
+## Kontakta mig
+[![LinkedIn] https://www.linkedin.com/in/oskar-sobala-5507bb380/
+[![Email] oskars0318@gmail.com
+
+**Söker praktikplats våren 2026!**
