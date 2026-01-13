@@ -21,7 +21,7 @@ Webbutvecklare i utbildning @ TE4 Academy
 - Agil utveckling i team
 
 ## Kontakta mig
-[![LinkedIn] https://www.linkedin.com/in/oskar-sobala-5507bb380/
-[![Email] oskars0318@gmail.com
+[![https://www.linkedin.com/in/oskar-sobala-5507bb380/(https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](din-linkedin-url)
+[![oskars0318@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:din@email.com)
 
 **Söker praktikplats våren 2026!**
